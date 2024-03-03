@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    cout<<"JAI SHRI RAM"<<endl;
-    cout<<"Jai shri Mahakaal";
+    cout<<"Hello World"<<endl;
+    cout<<"Lets Explore";
     return 0;
 }
